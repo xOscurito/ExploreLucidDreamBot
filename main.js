@@ -28,12 +28,14 @@ client.on('message', message =>{
     if(command === 'mild' || command === 'mildinfo'){
         client.commands.get('mild').execute(message, args);
     } 
-    if(command === 'wbtb' || command === 'wbtbinfo'){
-        client.commands.get('mild').execute(message, args);
+    else if(command === 'wbtb' || command === 'wbtbinfo'){
+        client.commands.get('wbtb').execute(message, args);
     } 
 
 
 
+
+    
     else
     {
         message.channel.send('Invalid command. Use ld!help for a list of commands.')
