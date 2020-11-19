@@ -16,7 +16,7 @@ for(const file of commandFiles){
  
  
 client.once('ready', () => {
-    console.log('Bot avviato');
+    console.log('Bot ora avviato');
 });
  
 client.on('message', message =>{
