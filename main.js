@@ -33,7 +33,7 @@ client.on('message', message =>{
     else if(command === 'mild' || command === 'mildinfo'){
         client.commands.get('mild').execute(message, args);
     } 
-    else if(command === 'wbtb' || command === 'wbtbbinfo'){
+    else if(command === 'wbtb' || command === 'wbtbinfo'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild' || command === 'wildinfo'){
