@@ -19,6 +19,8 @@ for(const file of commandFiles){
  
 client.once('ready', () => {
     console.log('Bot ora avviato');
+    bot.user.setGame('Use ld!help');
+
 });
  
 client.on('message', message =>{
