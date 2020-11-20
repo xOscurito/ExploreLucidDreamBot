@@ -26,7 +26,7 @@ module.exports = {
 				value: "fild\nimp\nwrild\ncild\ndream_walker\nnild\nssild\nlove_method",
 				 inline: true
 			  },{
-				  name: "__________",
+				  name: "__________"
 			  },
 			  {
 				name: "Others",
