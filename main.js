@@ -19,7 +19,7 @@ for(const file of commandFiles){
  
 client.once('ready', () => {
     console.log('Bot ora avviato');
-    client.user.setActivity("Use ld!help");
+    client.user.setActivity("ld!help");
 });
  
 client.on('message', message =>{
@@ -28,7 +28,7 @@ client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
     
-    if(command === 'help' || command === 'list'){
+    if(command === 'help' || command === 'list' || command === 'info'){
         client.commands.get('list').execute(message, args);
     } 
     else if(command === 'mild' || command === 'mildinfo'){
@@ -50,7 +50,7 @@ client.on('message', message =>{
 
     else
     {
-        message.channel.send('Invalid command. Type ld!help or ld!list for a list of commands.')
+        message.channel.send('Invalid command. Type ld!list for a list of commands.')
     }
 });
  
