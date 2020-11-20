@@ -33,13 +33,13 @@ client.on('message', message =>{
     else if(command === 'mild' || command === 'mildinfo'){
         client.commands.get('mild').execute(message, args);
     } 
-    else if(command === 'wbtb' || command === 'wbtbinfo'){
+    else if(command === 'wbtb' || command === 'wbtbbinfo'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild' || command === 'wildinfo'){
         client.commands.get('wild').execute(message, args);
     } 
-    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep paralyisis'){
+    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralyisis'){
         client.commands.get('sleepp').execute(message, args);
     } 
 
