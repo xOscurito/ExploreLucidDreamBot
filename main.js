@@ -37,6 +37,9 @@ client.on('message', message =>{
     else if(command === 'ada' || command === 'mindfullness' || command === 'all_day_awareness'){
         client.commands.get('ada').execute(message, args);
     } 
+    else if(command === 'cild'){
+        client.commands.get('cild').execute(message, args);
+    } 
     else if(command === 'wbtb' || command === 'wbtbinfo'){
         client.commands.get('wbtb').execute(message, args);
     } 
@@ -50,6 +53,8 @@ client.on('message', message =>{
 
 
     
+
+
 
     else
     {

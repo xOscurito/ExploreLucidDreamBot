@@ -23,7 +23,7 @@ module.exports = {
 			  },
 			  {
 				name: "Others",
-				value: "dream_journal\nsleep_cycle\nsleep_paralysis\nreality_check\nmotivation\nlucidesk\napplications\nmeditation\nbinaural_beats\ndream_recall\nlucid_nightmare",
+				value: "dream_journal\nsleep_cycle\nsleep_paralysis\nreality_check\nmotivation\nlucidesk\napplications\nmeditation\nbinaural_beats\ndream_recall\nlucid_nightmare\nmistakes\nbest_technique\nfall_asleep_fast",
 				 inline: true
 			  },
 			  {
