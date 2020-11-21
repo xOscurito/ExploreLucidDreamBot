@@ -15,8 +15,8 @@ module.exports = {
                 { name: "Step 2", value: 'Allow yourself to relax and get comfortable.'},
                 { name: "Step 3", value: "Set your intention. Repeat something like, “I will become lucid in my dreams,” or “I will be aware I’m dreaming in my dreams.” Repeat it confidently to yourself 4 or 5 times."},
                 { name: "Step 4", value: "Start at 100, then begin to count backwards. Focus on the numbers, but allow yourself to become heavy and sleepy.(You can also count from 1 to 100 but doing it backwards need more focus)"},
-                { name: "Step 4", value: "If you feel yourself drifting into other thoughts, simply bring your attention back to the numbers."},
-                { name: "Step 4", value: "Depending on how tired you are, you may not make it past the 80’s. At this point, if you have fallen asleep, you might trigger a lucid dream simply from your concentration and set intention. However, it is more likely that you will begin to transition into a dream. If you see a scene appear in your mind, step into and allow it to become clearer and more vivid. Eventually, you will transition fully into the lucid dream."},
+                { name: "Step 5", value: "If you feel yourself drifting into other thoughts, simply bring your attention back to the numbers."},
+                { name: "Step 6", value: "Depending on how tired you are, you may not make it past the 80’s. At this point, if you have fallen asleep, you might trigger a lucid dream simply from your concentration and set intention. However, it is more likely that you will begin to transition into a dream. If you see a scene appear in your mind, step into and allow it to become clearer and more vivid. Eventually, you will transition fully into the lucid dream."},
                 { name: "Source", value: "[BeLucidNow](https://belucidnow.com/counting-induced-lucid-dream-technique/)"},
                 { name: "YT Video", value: "[CILD tutorial](https://youtu.be/DX4jbyu7578)"},
                ]

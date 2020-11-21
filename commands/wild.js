@@ -16,8 +16,9 @@ module.exports = {
   	     	{ name: "Step 3", value: "Once in the half-dream state, you will experience hypnagogia as a mixture of patterns and colors that take over your vision in the darkness. Observe your hypnagogia and stay relaxed, allowing it to hypnotize you and draw your awareness away from the outside world  into the internal dream world that is starting to evolve now."},
  	        { name: "Step 4", value: "Try"},
  	        { name: "ATTENTION", value: "Since your consciousness is still linked to your physical body, which is now asleep, you may feel the effects of sleep paralysis. This is a natural protection mechanism which stops you from acting out your dreams. It happens every night, but usually by this stage your mind is asleep too. So if you feel like your limbs are going numb, or a lead blanket is moving up your body, don’t fight it. Instead, relax and rejoice in the fact that you are about the enter a Wake Induced Lucid Dream"},
-  	        { name: "Source", value: "https://www.youtube.com/channel/UCF_gxHcSIPIyCV31oa1wWpA"},
- 	        { name: "Else", value: "Use the command ld!wildlink if you want to see the YouTube video about WILD or ld!help for a list of commands"},
+  	        { name: "Source", value: "[Explore Lucid Dreaming YT](https://www.youtube.com/channel/UCF_gxHcSIPIyCV31oa1wWpA)"},
+			{ name: "YT Video", value: "[Updated WILD tutorial](https://youtu.be/0XgF_59b9Cc)\n[WILD tutorial(Old)](https://youtu.be/ySIEeU2LgZs)"},
+			  
  	     ]
  	   }
  	 });

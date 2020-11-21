@@ -31,7 +31,7 @@ client.on('message', message =>{
     if(command === 'help' || command === 'list' || command === 'info'){
         client.commands.get('list').execute(message, args);
     } 
-    else if(command === 'mild' || command === 'mildinfo'){
+    else if(command === 'mild'){
         client.commands.get('mild').execute(message, args);
     } 
     else if(command === 'ada' || command === 'mindfullness' || command === 'all_day_awareness'){
@@ -39,20 +39,23 @@ client.on('message', message =>{
     } 
     else if(command === 'cild'){
         client.commands.get('cild').execute(message, args);
-    } 
+    }
+    else if(command === 'deild'){
+        client.commands.get('deild').execute(message, args);
+    }
     else if(command === 'wbtb' || command === 'wbtbinfo'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild' || command === 'wildinfo'){
         client.commands.get('wild').execute(message, args);
     } 
-    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis' || command === 'sleep paralysis'){
+    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
 
 
 
-    
+
 
 
 
