@@ -43,10 +43,13 @@ client.on('message', message =>{
     else if(command === 'deild'){
         client.commands.get('deild').execute(message, args);
     }
-    else if(command === 'wbtb' || command === 'wbtbinfo'){
+    else if(command === 'fild' || command === 'finger' || command === 'fingers'){
+        client.commands.get('fild').execute(message, args);
+    }
+    else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 
-    else if(command === 'wild' || command === 'wildinfo'){
+    else if(command === 'wild'){
         client.commands.get('wild').execute(message, args);
     } 
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
