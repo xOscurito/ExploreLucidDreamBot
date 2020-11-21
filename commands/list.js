@@ -18,12 +18,12 @@ module.exports = {
 			fields: [
 			  {
 				name: "Techniques",
-				value: "mild\nwbtb\nwild\nvild\ndild\ndeild\nrausis\nada\nfild\nimp\nwrild\ncild\ndream_walker\nnild\nssild\nlove_method",
+				value: "mild\nwbtb\nwild\nvild\ndild\ndeild\nrausis\nada\nfild\nimp\nwrild\ncild\ndream_walker\nnild\nssild\nlove_method\nspild",
 				 inline: true
 			  },
 			  {
 				name: "Others",
-				value: "dream_journal\nsleep_cycle\nsleep_paralysis\nreality_check\nmotivation\nlucidesk\napplications\nmeditation\nbinaural_beats\ndream_recall",
+				value: "dream_journal\nsleep_cycle\nsleep_paralysis\nreality_check\nmotivation\nlucidesk\napplications\nmeditation\nbinaural_beats\ndream_recall\nlucid_nightmare",
 				 inline: true
 			  },
 			  {
