@@ -5,7 +5,11 @@ module.exports = {
 
 	message.channel.send({embed: {
   	    color: 0x9609e1,
-   	    title: "The WBTB Technique",
+   	    title: "Wake Back To Bed",
+		   footer: {
+			   icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
+			   text: "| Made by Oscurito"
+			 },
   	    fields: [
    	     	{ name: "Step 1", value: "Set an alarm to wake you after four to five hours sleep, then retire to bed. When setting the alarm, understand that the aim is to interrupt your sleep cycle just prior to entering the stage in which REM (dreaming) sleep is  most prevalent."},
    	     	{ name: "Step 2", value: "Go to sleep (Easy one)."},

@@ -5,7 +5,11 @@ module.exports = {
 
 	message.channel.send({embed: {
   	    color: 0x9609e1,
-   	    title: "The WILD Technique",
+   	    title: "Wake Induced Lucid Dream",
+		   footer: {
+			   icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
+			   text: "| Made by Oscurito"
+			 },
   	    fields: [
    	     	{ name: "Step 1", value: "Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time, but it is not required."},
    	     	{ name: "Step 2", value: "Go back to bed and lie absolutely still, as if your body is melting into the mattress and losing all sensation. Silence your inner monologue if it starts to chime in. You may hear hypnagogic sounds, echoes of voices and other sounds in your head."},

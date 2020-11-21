@@ -34,19 +34,22 @@ client.on('message', message =>{
     else if(command === 'mild' || command === 'mildinfo'){
         client.commands.get('mild').execute(message, args);
     } 
+    else if(command === 'ada' || command === 'mindfullness' || command === 'all_day_awareness'){
+        client.commands.get('ada').execute(message, args);
+    } 
     else if(command === 'wbtb' || command === 'wbtbinfo'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild' || command === 'wildinfo'){
         client.commands.get('wild').execute(message, args);
     } 
-    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralyisis'){
+    else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis' || command === 'sleep paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
 
 
 
-
+    
 
     else
     {
