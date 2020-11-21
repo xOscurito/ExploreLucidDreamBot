@@ -18,7 +18,7 @@ module.exports = {
 			fields: [
 			  {
 				name: "Techniques",
-				value: "mild\nwbtb\nwild\nvild\ndild\ndeild\nrausis\nada\nfild\nimp\nwrild\ncild\ndream_walker\nnild\nssild\nlove_method\nspild",
+				value: "ada\ncild\ndeild\ndild\ndream_walker\nfild\nimp\nlove_method\nmild\nnild\nrausis\nspild\nssild\nvild\nwbtb\nwild\nwrild",
 				 inline: true
 			  },
 			  {
