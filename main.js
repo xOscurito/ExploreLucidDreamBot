@@ -56,6 +56,9 @@ client.on('message', message =>{
     else if(command === 'rausis'){
         client.commands.get('rausis').execute(message, args);
     }
+    else if(command === 'spild'){
+        client.commands.get('spild').execute(message, args);
+    }
     else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 

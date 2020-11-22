@@ -14,6 +14,7 @@ module.exports = {
                 { name: "Step 1", value: "Once you have returned to bed during a WBTB, and have assumed the position in which you are likely to fall asleep (ideally lying on your back), you need to establish any physical movements that would be impossible to perform in your current position.\n\nFor example, should your hand be flat beneath your head, it would be physically impossible to form a clenched fist. There are countless variations possible here; you just have to decide which position you wish to lie in."},
                 { name: "Step 2", value: 'Once you have made your choice, you now need to continue to imagine the impossible movement repeated over and over.\nContinue to repeat this process as you fall back to sleep.'},
                 { name: "Step 3", value: "What you should eventually experience is the imagined sensation suddenly shifts to a completely realistic and tangible tactile experience; it will really feel as if you have moved in this way.\nOnce this occurs, and the transition between your physical and dream body has happened, you are dreaming."},
+                { name: "Similar techniques", value: "FILD"}, 
                 { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Impossible-Movement-Practice-%28IMP%29)"},
                 { name: "YT Video", value: "No videos yet"},
                ]

@@ -15,6 +15,7 @@ module.exports = {
               { name: "Step 2", value: 'As you lay in bed, returning to sleep, say to yourself "The next time I am dreaming I will remember to recognise that Im dreaming"'},
               { name: "Step 3", value: "Imagine yourself back in the dream only this time see yourself becoming aware that you are dreaming."},
               { name: "Step 4", value: "Continue steps two and three until your have clearly set your intention or you return to sleep."},
+              { name: "Similar techniques", value: "VILD, WRILD"}, 
               { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Mnemonic-Induction-of-Lucid-Dreaming-%28MILD%29)"},
               { name: "YT Videos", value: "[Updated MILD tutorial](https://youtu.be/IYus3vMplcY)\n[Older MILD tutorial](https://youtu.be/CSWH_Llf45k)"},
             ]

@@ -15,6 +15,7 @@ module.exports = {
                 { name: "Step 2", value: 'Start moving your index finger and your middle finger up and down repeatedly as if you were playing two keys on a piano. Do this for 30 seconds. Do not count the seconds in your head or out loud, just estimate how long its been. Tell yourself that you are going to do a nose pinch reality check while you are moving your fingers.'},
                 { name: "Step 3", value: "After the estimated 30 seconds you will then stop moving your finger and do a nose pinch reality check and, if you are able to breathe through your pinched nose, then you are dreaming! If you can't breathe then you are still in waking reality."},
                 { name: "Step 4", value: "If you discover that you are not dreaming, then just wait for a few moments then repeat steps two and three. Continue to perform these steps until you enter a lucid dream, or become too sleepy to continue."},
+                { name: "Similar techniques", value: "IMP"}, 
                 { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Finger%2FFocus-Induced-Lucid-Dream-%28FILD%29)"},
                 { name: "YT Video", value: "[FILD tutorial](https://youtu.be/TzV8-CSofG0)\n[Daniel Love FILD tutorial](https://youtu.be/thbr8Tm1E6U)"},
                ]

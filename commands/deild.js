@@ -18,6 +18,7 @@ module.exports = {
                 { name: "Attention", value: "You may enter a period of sleep paralysis during this process, this can be unsettling for those who are unfamiliar with the experience. However, it is nothing to fear and is a sign that the technique is working. Simply ride it out until the dream has formed. "},
                 { name: "Step 5", value: "Remember to perform a reality check once the dream has formed. This is essentially unnecessary as it is generally quite apparent that one is dreaming, however it is good practice and will help solidify your lucidity."},
                 { name: "Step 6", value: "If the dream fades and you find yourself waking up, start the process again from step 1. In this manner it can be possible to have multiple lucid dreams in a row, a process known as 'dream chaining'."},
+                { name: "Similar techniques", value: "SPILD, WILD, CILD"}, 
                 { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Dream-Exit-Induced-Lucid-Dream-%28DEILD%29)"},
                 { name: "YT Video", value: "No videos yet"},
                ]

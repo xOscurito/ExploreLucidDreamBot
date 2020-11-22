@@ -15,7 +15,8 @@ module.exports = {
             { name: "Step 1", value: "When going to bed, set your alarm to wake you after 2½ hours sleep.\nAlso, take a note of the time you retire to bed."},   
             { name: "Step 2", value: "When woken, get up and stay awake for ten minutes. Get out of bed and stand up (get vertical!).\nPerform a thorough reality check (If you want more information about reality checks type ld!reality_check).\nTake 15 quick deep breaths, in through your nose, out through your mouth. After each exhale remind yourself of your goal to recognize when you are dreaming.If you have time left, do anything else that you find helps to increase your critical awareness."},
             { name: "Step 3", value: "Once the ten minutes have elapsed, return to bed. Tell yourself that you will soon be dreaming, and will recognise that you are dreaming, then allow yourself to fall asleep naturally.\nAs you fall back to sleep try to imagine yourself rolling out of bed."},
-  	        { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/The-Love-Method)"},
+			{ name: "Similar techniques", value: "WBTB, cat_method"},   
+			{ name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/The-Love-Method)"},
  	        { name: "YT Video", value: "[Daniel Love The Love Method tutorial](https://youtu.be/wff7w2KVYxo)"},
  	     ]
  	   }
