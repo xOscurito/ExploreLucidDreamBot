@@ -59,6 +59,9 @@ client.on('message', message =>{
     else if(command === 'spild'){
         client.commands.get('spild').execute(message, args);
     }
+    else if(command === 'ssild' || command === 'senses' || command === 'sense'){
+        client.commands.get('ssild').execute(message, args);
+    }
     else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 
