@@ -32,9 +32,6 @@ client.on('message', message =>{
         client.commands.get('list').execute(message, args);
     } 
         //TECHS
-    else if(command === 'mild'){
-        client.commands.get('mild').execute(message, args);
-    } 
     else if(command === 'ada' || command === 'mindfullness' || command === 'all_day_awareness'){
         client.commands.get('ada').execute(message, args);
     } 
@@ -49,7 +46,16 @@ client.on('message', message =>{
     }
     else if(command === 'imp' || command === 'impossible_movement' || command === 'impossible' || command === 'movement' || command === 'impossible_movement_practice'){
         client.commands.get('imp').execute(message, args);
-    } 
+    }
+    else if(command === 'love_method' || command === 'love' || command === 'daniel_love' || command === 'the_love_method' || command === 'tlm'){
+        client.commands.get('lovemethod').execute(message, args);
+    }
+    else if(command === 'mild'){
+        client.commands.get('mild').execute(message, args);
+    }
+    else if(command === 'rausis'){
+        client.commands.get('rausis').execute(message, args);
+    }
     else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 
