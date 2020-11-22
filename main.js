@@ -31,6 +31,7 @@ client.on('message', message =>{
     if(command === 'help' || command === 'list' || command === 'info'){
         client.commands.get('list').execute(message, args);
     } 
+        //TECHS
     else if(command === 'mild'){
         client.commands.get('mild').execute(message, args);
     } 
@@ -46,11 +47,16 @@ client.on('message', message =>{
     else if(command === 'fild' || command === 'finger' || command === 'fingers'){
         client.commands.get('fild').execute(message, args);
     }
+    else if(command === 'imp' || command === 'impossible_movement' || command === 'impossible' || command === 'movement' || command === 'impossible_movement_practice'){
+        client.commands.get('imp').execute(message, args);
+    } 
     else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild'){
         client.commands.get('wild').execute(message, args);
+
+        //OTHERS
     } 
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);

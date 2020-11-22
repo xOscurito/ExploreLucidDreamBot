@@ -16,7 +16,7 @@ module.exports = {
   	     	{ name: "Step 3", value: "Upon waking from your alarm, get out of bed and occupy yourself for 15-90 minutes (you will need to experiment to find your optimal time - for most it is roughly 20 minutes). Do whatever is required to make your mind alert and active, but without going as far as to make returning to sleep impossible."},
  	        { name: "Step 4", value: "Return to bed with the firm intention to recognise that you are dreaming once it occurs. Allow yourself to relax and fall back into sleep (generally at this point, dreamers will also be employing a second psychological technique to improve their chances of success)."},
   	        { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Wake-Back-To-Bed-%28WBTB%29)"},
- 	        { name: "Else", value: "[WBTB tutorial](https://youtu.be/V0LXfhqNoLc)"},
+ 	        { name: "YT Video", value: "[WBTB tutorial](https://youtu.be/V0LXfhqNoLc)"},
  	     ]
  	   }
  	 });
