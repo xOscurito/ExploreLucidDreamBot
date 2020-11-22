@@ -22,7 +22,7 @@ module.exports = {
               { name: "Step 4", value: "Perform the Cycle quickly, repeat 4-6 times. This serves as a warm-up exercise so each step should be very short, a few seconds should be sufficient."}, 
               { name: "Step 5", value: "Perform the Cycle slowly, repeat 3-4 times. This step is the most important one. You should take extra time during each step. Thanks to step 4, at this point you should have become sufficiently relaxed and you will find focusing on the senses become much easier. For example, your eyes will feel more relaxed, and you may get visuals such as lights, colors, or movements. You might also notice that the external sounds seem to be fading into the background. Do not get excited though. You should observe quietly and after a while move on to other senses. As far as timing goes we are flexible, but in general each step should take no fewer than 30 seconds."}, 
               { name: "Step 6", value: "Return to the most comfortable position and allow yourself fall into sleep as quickly as possible. Do not think too much and do not worry if it will work. The quicker you can fall asleep the more likely it will work. Have faith!"}, 
-              { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Senses-Initiated-Lucid-Dream-(SSILD))"},
+              { name: "Source", value: "[TheLucidGuide](https://www.thelucidguide.com/Techniques/Senses-Initiated-Lucid-Dream-%28SSILD%29)"},
               { name: "YT Videos", value: "[SSILD tutorial](https://youtu.be/F1dZefxHqXQ)"},
             ]
           }

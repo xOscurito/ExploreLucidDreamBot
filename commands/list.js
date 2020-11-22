@@ -22,7 +22,7 @@ module.exports = {
 				 inline: true
 			  },
 			  {
-				name: "Others",
+				name: "Others (Coming soon)",
 				value: "applications\nbest_technique\nbinaural_beats\ndream_journal\ndream_longer\ndream_recall\nfall_asleep_fast\nlucid_nightmare\nlucidesk\nmeditation\nmistakes\nmotivation\nreality_check\nsleep_cycle\nsleep_paralysis",
 				 inline: true
 			  },

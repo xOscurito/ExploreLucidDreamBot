@@ -62,14 +62,21 @@ client.on('message', message =>{
     else if(command === 'ssild' || command === 'senses' || command === 'sense'){
         client.commands.get('ssild').execute(message, args);
     }
+    else if(command === 'vild' || command === 'visual'){
+        client.commands.get('vild').execute(message, args);
+    }
     else if(command === 'wbtb'){
         client.commands.get('wbtb').execute(message, args);
     } 
     else if(command === 'wild'){
         client.commands.get('wild').execute(message, args);
+    }
+    else if(command === 'wrild' || command === 'write' || command === 'written'){
+        client.commands.get('wrild').execute(message, args);
+    }
 
         //OTHERS
-    } 
+    
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
