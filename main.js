@@ -76,7 +76,13 @@ client.on('message', message =>{
     }
 
         //OTHERS
-    
+    else if(command === 'applications' || command === 'app' || command === 'apps'){
+        client.commands.get('app').execute(message, args);
+    } 
+    else if(command === 'meditation'){
+        client.commands.get('meditation').execute(message, args);
+    } 
+
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 

@@ -1,18 +1,18 @@
 module.exports = {
-    name: 'list',
-    description: "send a list of command",
+    name: 'meditation',
+    description: "send meditation info",
     execute(message, args){
 
 	message.channel.send({embed: {
-			title: "Commands List",
+			title: "Meditation",
 			description: " ***```\nImportant: Use ld! as prefix before the command```***",
-			color: 6166501,
+            color: 6166501,
+            image: {
+                url: "https://cdn.shopify.com/s/files/1/2220/6299/files/source_large.gif?v=1557761376"
+            },
 			footer: {
 			  icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
 			  text: "| Made by Oscurito"
-			},
-			image: {
-				url: "https://cdn7.bigcommerce.com/s-k5x0or73dq/product_images/uploaded_images/848fa-sintomas2bda2bascensao.gif"
 			},
 			thumbnail: {
 			  url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj"
@@ -33,7 +33,6 @@ module.exports = {
 				name: "Links",
 				value: "[Officail Youtube](https://www.youtube.com/channel/UCF_gxHcSIPIyCV31oa1wWpA)\n[Patreon](https://www.patreon.com/exploreluciddreaming)\n[TheLucidGuide](https://www.thelucidguide.com/)"
 			  }
-			  
 			]
 		  }
 		}
