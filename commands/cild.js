@@ -10,6 +10,9 @@ module.exports = {
                 icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
                 text: "| Made by Oscurito"
               },
+              image :{
+                url: "https://belucidnow.com/wp-content/uploads/2019/10/Dream-Numbers.jpg"
+              },
             fields: [
                 { name: "Step 1", value: "Get 4-6 hours of sleep. Wake up for a few minutes, then go back to bed."},
                 { name: "Step 2", value: 'Allow yourself to relax and get comfortable.'},
