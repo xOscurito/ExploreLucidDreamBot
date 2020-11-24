@@ -22,7 +22,7 @@ module.exports = {
    	     	{ name: "What is Meditation?", value: "Meditation means emptying the mind to achieve a focused state of awareness. It can be used to harness lucid dreams."},
    	     	{ name: "Benefits", value: "Meditators have reduced REM sleep but greater dream recall\nMeditators have more lucid dreams, even after controlling for recall\nBoth meditators and lucid dreamers show more  field independence\n Field independence is a cognitive style of learning. It means you tend to separate details from the surrounding context (as opposed to field dependence, which is the inability to distinguish details)"}, 
 			{ name: "Guided Meditation Videos", value: "[Meditation Vacation Dream Playlist](https://www.youtube.com/playlist?list=PLY7K9GAzFiwk1W9nScaJeT8qUnYPfKMFc)\n[Daniel Love Guided Meditation](https://youtu.be/GzDCyxYd92k)"},
-			{ name: "YT Videos", value: "[Explore Lucid Dreaming Beginner Meditation tutorial 1](https://youtu.be/cbLH6DZ17VM)\n[Explore Lucid Dreaming Beginner Meditation tutorial 2](https://youtu.be/CXUaocZynMc)"},
+			{ name: "YT Videos", value: "[ELD Beginner Meditation tutorial 1](https://youtu.be/cbLH6DZ17VM)\n[ELD Beginner Meditation tutorial 2](https://youtu.be/CXUaocZynMc)"},
 			  
 			]
 		  }

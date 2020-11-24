@@ -89,6 +89,9 @@ client.on('message', message =>{
     else if(command === 'dream_journal' || command === 'dream_journaling' || command === 'journal'){
         client.commands.get('dreamjournal').execute(message, args);
     }
+    else if(command === 'dream_longer' || command === 'longer' || command === 'stabilize'){
+        client.commands.get('dreamjournal').execute(message, args);
+    }
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
