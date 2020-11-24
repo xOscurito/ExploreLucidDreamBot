@@ -86,7 +86,7 @@ client.on('message', message =>{
         client.commands.get('besttech').execute(message, args);
     } 
     else if(command === 'binaural_beats' || command === 'bbs' || command === 'bb' || command === 'beats' || command === 'binaural'){
-        client.commands.get('besttech').execute(message, args);
+        client.commands.get('binaural').execute(message, args);
     } 
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
