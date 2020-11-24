@@ -17,7 +17,7 @@ module.exports = {
 			fields: [
 			  
    	     	{ name: "There isnt a better technique", value: "Everyone is different, and there's not a best technique for everyone."},
-   	     	{ name: "Easier or Harder", value: "If you are a beginner, people probaly wont tell you too try WILD the first nght because its one of the hardest techniques out there.\nI personally suggest to start with MILD and WBTB (or any other method where you wake up during night).\nOther techniques like WILD or FILD garants more vivid and stable lucid dream, but also have risks of causing sleep paralysis, that lots of people fear"}, 
+   	     	{ name: "Easier or Harder", value: "If you are a beginner, people (Hopefully) wont tell you too try WILD the first nght because its one of the hardest techniques out there.\nI personally suggest to start with MILD and WBTB (or any other method where you wake up during night).\nOther techniques like WILD or FILD grants more vivid and stable lucid dream, but also have risks of causing sleep paralysis, that lots of people fear"}, 
 			{ name: "Find what is the best for you", value: "You can try different techniques and see what you like most or you find easier."},
 			{ name: "YT Videos", value: "[Best techniques video](https://youtu.be/JegRDhyRkfo)"},
 			  
