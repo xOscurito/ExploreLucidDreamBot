@@ -82,7 +82,9 @@ client.on('message', message =>{
     else if(command === 'meditation'){
         client.commands.get('meditation').execute(message, args);
     } 
-
+    else if(command === 'best_techniqe' || command === 'best' || command === 'best_tech' || command === 'best_techniques'){
+        client.commands.get('besttech').execute(message, args);
+    } 
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
