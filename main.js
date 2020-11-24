@@ -76,9 +76,7 @@ client.on('message', message =>{
     }
 
         //OTHERS
-    else if(command === 'applications' || command === 'app' || command === 'apps'){
-        client.commands.get('app').execute(message, args);
-    } 
+        
     else if(command === 'meditation'){
         client.commands.get('meditation').execute(message, args);
     } 
@@ -88,6 +86,9 @@ client.on('message', message =>{
     else if(command === 'binaural_beats' || command === 'bbs' || command === 'bb' || command === 'beats' || command === 'binaural'){
         client.commands.get('binaural').execute(message, args);
     } 
+    else if(command === 'dream_journal' || command === 'dream_journaling' || command === 'journal'){
+        client.commands.get('dreamjournal').execute(message, args);
+    }
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
