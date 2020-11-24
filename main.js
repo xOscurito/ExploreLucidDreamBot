@@ -90,7 +90,7 @@ client.on('message', message =>{
         client.commands.get('dreamjournal').execute(message, args);
     }
     else if(command === 'dream_longer' || command === 'longer' || command === 'stabilize'){
-        client.commands.get('dreamjournal').execute(message, args);
+        client.commands.get('dreamjlonger').execute(message, args);
     }
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
