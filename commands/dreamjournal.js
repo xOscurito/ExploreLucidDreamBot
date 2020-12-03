@@ -22,7 +22,6 @@ module.exports = {
    	     	{ name: "What is Dream Journal", value: "A dream journal is a something (it can be a diary, an applications or a notebook) where you write every dream you have."},
    	     	{ name: "Benefits", value: "Dream journaling improve your dream recall, so it will be easy remembering your dreams.\nReading back your dreams you can easly find dream sign, namely something that you see or find often in your dreams."}, 
 			{ name: "Dream journal applications", value: "Lucidity is one of the most used dream journal applications, on both IOs and Android. Lucidity have a free and a premium version, but the free one have all that you need to start a good dream journal."},
-            { name: "See also", value: "dream_recall"},
             { name: "YT Videos", value: "[Dream Journal ELD video](https://youtu.be/KIDu8fIJfhc)"},
 			
 			]

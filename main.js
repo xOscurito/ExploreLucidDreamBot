@@ -92,6 +92,9 @@ client.on('message', message =>{
     else if(command === 'dream_longer' || command === 'longer' || command === 'stabilize'){
         client.commands.get('dreamlonger').execute(message, args);
     }
+    else if(command === 'fall_asleep_fast' || command === 'fallasleepfast' || command === 'fast'){
+        client.commands.get('fallasleepfast').execute(message, args);
+    }
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 

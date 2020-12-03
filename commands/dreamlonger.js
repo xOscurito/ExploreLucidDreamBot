@@ -19,10 +19,7 @@ module.exports = {
 			
 			fields: [
 			  
-   	     	{ name: "What are Binaural Beats?", value: "When you hear two tones, one in each ear, that are slightly different in frequency, your brain processes a beat at the difference of the frequencies. This is called a binaural beat."},
-   	     	{ name: "Benefits", value: "Binaural beats are claimed to induce the same mental state associated with a meditation practice, but much more quickly. In effect, binaural beats are said to: reduce anxiety,incrase focus and concentration, lower stress, increase relaxation, promote creativity, foster positive moods and help manage pain."}, 
-            { name: "Binaural Beats for Lucid dreaming", value: "Binaural beats that entrain your brain to the theta and delta brainwave frequencies should actually help lucid dreaming.\nTheta brainwaves are associated with the hypnagogic state of consciousness, which is the transitional state between wakefulness and sleep just before the onset of sleep.\nTheta is a deeply relaxed and dreamlike state, which is ideal for lucid dreaming."},
-			{ name: "Source", value: "[HealthLine](https://www.healthline.com/health/binaural-beats)"},
+   	     	{ name: "How to stabilize your dream", value: "Often lucid dreams ar blurry or last for only few seconds. You should stabilize your dreams before doing exciting things that will lead you to waking up.\nThe first thing you have to do after becoming lucid is to calm down and observe your surrounding, focusing on details. Then you can try rubbing your hands or spinning arround, that should help stabilizing the dream."},
 			{ name: "YT Videos", value: "[Dream Longer ELD Video](https://youtu.be/0VA9PnR_28o)"},
 			  
 			]
