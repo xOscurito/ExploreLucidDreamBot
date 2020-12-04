@@ -95,14 +95,15 @@ client.on('message', message =>{
     else if(command === 'fall_asleep_fast' || command === 'fallasleepfast' || command === 'fast'){
         client.commands.get('fallasleepfast').execute(message, args);
     }
+    else if(command === 'reality_check' || command === 'rc' || command === 'rcs' || command === 'realitycheck' || command === 'realitychecks' || command === 'reality_checks' || command === 'check'){
+        client.commands.get('realitycheck').execute(message, args);
+    }
+    else if(command === 'sc' || command === 'sleepcycle' || command === 'sleep_cycle'){
+        client.commands.get('sleepcycle').execute(message, args);
+    } 
     else if(command === 'sp' || command === 'sleepparalysis' || command === 'sleep_paralysis'){
         client.commands.get('sleepp').execute(message, args);
     } 
-
-
-
-
-
 
 
     else
