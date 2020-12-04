@@ -12,7 +12,10 @@ module.exports = {
 		   footer: {
 			   icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
 			   text: "| Made by Oscurito"
-			 },
+             },
+            thumbnail: {
+			  url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj"
+			},
   	    fields: [
    	     	{ name: "What is the Sleep Cycle?", value: "Sleep is not uniform. Instead, over the course of the night, your total sleep is made up of several rounds of the sleep cycle, which is composed of four individual stages. In a typical night, a person goes through four to six sleep cycles. Not all sleep cycles are the same length, but on average they last about 90 minutes each."},
    	     	{ name: "Wake Stage", value: "Youre awake"},

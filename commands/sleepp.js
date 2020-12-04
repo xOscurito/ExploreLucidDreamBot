@@ -9,6 +9,9 @@ module.exports = {
             footer: {
                 icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
                 text: "| Made by Oscurito"
+              },
+              thumbnail: {
+                url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj"
               },        
             image: {
                url: "https://static.wixstatic.com/media/d50957_1cd51dd221d4494a87b23e0dda4dbfef~mv2.jpg/v1/fill/w_931,h_297,al_c,q_80/Girl%20Behind%20a%20Sheet.webp"

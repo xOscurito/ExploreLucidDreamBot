@@ -6,6 +6,9 @@ module.exports = {
         message.channel.send({embed: {
             color: 0x9609e1,
             title: "Finger Induced Lucid Dreaming",
+            image: {
+                url: "https://i.insider.com/56ee0a82910584cc5e8b762f?width=750&format=jpeg&auto=webp"
+            },
             footer: {
                 icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
                 text: "| Made by Oscurito"

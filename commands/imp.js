@@ -6,6 +6,9 @@ module.exports = {
         message.channel.send({embed: {
             color: 0x9609e1,
             title: "Impossible Movement Practice",
+            image: {
+                url: "https://static.wixstatic.com/media/d50957_b130cba4116a427583c09a74f4a8a179~mv2.jpeg/v1/fill/w_953,h_304,al_c,q_80,usm_0.66_1.00_0.01/Girl%20Behind%20a%20Sheet.webp"
+            },
             footer: {
                 icon_url: "https://yt3.ggpht.com/ytc/AAUvwniIz_ZP4P3fjwh7E9Ah2EGUQB7rWg1CxCwmdyX_5w=s900-c-k-c0x00ffffff-no-rj",
                 text: "| Made by Oscurito"
